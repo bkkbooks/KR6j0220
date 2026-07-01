@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0220/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0220/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說造塔延命功德經
+  identifiers:
+    krp: KR6j0220
+    cbeta: T19n1026
+    cbeta_old_id: T19n1026
+    authorityid: CA0003942
+    json_key: T1026
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1026.xml
+    old_id: T19n1026
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0220_000-T.yaml, hash: 'sha256:f04cfd993977627037704063fe407a252b3a7ad46d04d82f5adb7ffd43f11e5f'}
+  - {seq: 1, filename: KR6j0220_001-T.yaml, hash: 'sha256:7478330805d67ad3cb38a1303f0226ae2a5d4f12e1d5b62f8b74768df03478cf'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0220_000-T.markers.yaml, hash: 'sha256:4b2d6a625d96ff3b2c5590e016424f9b29fa0956119f7d607eae342926434da0'}
+  - {seq: 1, role: markers, filename: assets/KR6j0220_001-T.markers.yaml, hash: 'sha256:478b8ab089edc32e560e7c420de12ee8e46670cc5a9022484156676e32cff1aa'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0220_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2112
+  label: 佛說造塔延命功德經
+  type: juan
+  level: 1
+hash: sha256:68a6a0e91037df857ecaa3f234cf5fc13bd8d24f241a07d63db058cf52ca8070

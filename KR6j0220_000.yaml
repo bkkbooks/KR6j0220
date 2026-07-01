@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0220/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說造塔延命功德經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1026.xml
+    old_id: T19n1026
+hash: sha256:f04cfd993977627037704063fe407a252b3a7ad46d04d82f5adb7ffd43f11e5f
