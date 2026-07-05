@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0220_000.yaml, hash: 'sha256:f04cfd993977627037704063fe407a252b3a7ad46d04d82f5adb7ffd43f11e5f'}
-  - {seq: 1, filename: KR6j0220_001.yaml, hash: 'sha256:f1f42aaefb55e112a6c4989b6eaac8637a613d3d7141545c331956199d6e322b'}
+  - {seq: 1, filename: KR6j0220_001.yaml, hash: 'sha256:7478330805d67ad3cb38a1303f0226ae2a5d4f12e1d5b62f8b74768df03478cf'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0220_001.markers.yaml, hash: 'sha256:76736ec0c8529d914962c8d090a6d0d8f9f722a2f0ca4be7417f4627efbaaf72'}
+  - {seq: 0, role: markers, filename: assets/KR6j0220_000.markers.yaml, hash: 'sha256:c1eee4efe6ea56047b20328bd834663b1fc0c3f0f6d692db329a485477951a9d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0220_001.markers.yaml, hash: 'sha256:22a396b5c0ab3c114fb42ad10aed3518de2b7fbb6ef35163c3d3a371c1cca59c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 佛說造塔延命功德經
   type: juan
   level: 1
-hash: sha256:cc4e9584efebea191cd0445950208454bef4d6bb3e69144200c51e85bfed4c48
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9b739d580790915e5343a18c46da8f82eb64185995902738e03e1d1fc84363b5
